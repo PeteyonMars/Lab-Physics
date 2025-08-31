@@ -1,6 +1,6 @@
 # Lab-Physics Repo
 
-This Repo contains the Python code I wrote for my Lab Physics course taken at Bates College during my sophomore year. I learned to use multiple Python libraries and tools, such as
+This repo contains the Python code I wrote for my Lab Physics course taken at Bates College during my sophomore year. I learned to use multiple Python libraries and tools, such as
 - matplotlib
 - numpy / scipy / pandas
 - lmfit
